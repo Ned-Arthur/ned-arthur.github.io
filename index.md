@@ -4,3 +4,6 @@
 
 layout: home
 ---
+A blog about writing software and using tools without relying on external
+packages as much as is practical.
+
