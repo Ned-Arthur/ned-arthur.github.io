@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why avoid dependencies?"
+subtitle: "Clearing out the cobwebs"
 date: 2024-11-28 11:44:00 +1000
 categories:
 author: "Ned Murry"

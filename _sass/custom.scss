@@ -1,0 +1,8 @@
+
+.post-subtitle {
+  @include relative-font-size(1);
+  font-style: italic;
+  color: #303030;
+  margin-top: -0.9rem;
+  margin-bottom: 0.2rem;
+}
